@@ -1,0 +1,101 @@
+appointments_id,patient_id,doctor_id,appointment_date,status,name_x,age,gender,city,name_y,specialization,fee,bill_id,total_fee,payment_status,billing_date
+1,1,1,2024-03-01,Completed,Amit Shah,32,Male,Delhi,Dr. Meena Iyer,Cardiology,1000.0,1.0,1000.0,Paid,2024-03-01
+2,2,3,2024-03-02,Completed,Sita Reddy,29,Female,Hyderabad,Dr. Kavita Sinha,Dermatology,600.0,2.0,600.0,Paid,2024-03-02
+3,3,4,2024-03-03,Cancelled,Rohit Verma,45,Male,Mumbai,Dr. Ravi Kumar,Neurology,1200.0,,,,
+4,4,2,2024-03-04,Completed,Divya Nair,34,Female,Chennai,Dr. Arvind Rao,Orthopedics,800.0,3.0,800.0,Unpaid,2024-03-04
+5,5,5,2024-03-05,Pending,Karan Patel,51,Male,Bangalore,Dr. Leena Singh,General Medicine,500.0,4.0,500.0,Pending,2024-03-05
+6,6,8,2024-03-06,Completed,Neha Joshi,27,Female,Pune,Dr. Sanjay Mehra,Oncology,1300.0,5.0,900.0,Paid,2024-03-06
+7,7,10,2024-03-07,Completed,Anil Mehra,38,Male,Kolkata,Dr. Rajeev Bhatia,Urology,1100.0,6.0,1200.0,Paid,2024-03-07
+8,8,12,2024-03-08,Cancelled,Priya Das,31,Female,Bhubaneswar,Dr. Rohit Malhotra,Gastroenterology,1050.0,7.0,850.0,Unpaid,2024-03-08
+9,9,14,2024-03-09,Pending,Sunil Yadav,44,Male,Ahmedabad,Dr. Vikram Patel,Nephrology,1200.0,8.0,700.0,Pending,2024-03-09
+10,10,6,2024-03-10,Completed,Meena Iyer,36,Female,Coimbatore,Dr. Amit Joshi,ENT,700.0,9.0,650.0,Paid,2024-03-10
+11,11,15,2024-03-11,Completed,Manoj Singh,42,Male,Lucknow,Dr. Swati Kapoor,Endocrinology,1000.0,10.0,1300.0,Paid,2024-03-11
+12,12,17,2024-03-12,Cancelled,Lakshmi Rao,33,Female,Vijayawada,Dr. Tanya Das,Dermatology,600.0,11.0,750.0,Unpaid,2024-03-12
+13,13,18,2024-03-13,Pending,Rahul Khanna,30,Male,Delhi,Dr. Alok Sinha,General Surgery,950.0,12.0,950.0,Pending,2024-03-13
+14,14,20,2024-03-14,Completed,Nisha Kumari,26,Female,Ranchi,Dr. Harish Kaur,Cardiology,1100.0,13.0,1100.0,Paid,2024-03-14
+15,15,7,2024-03-15,Completed,Vikram Joshi,40,Male,Indore,Dr. Nandini Verma,Pediatrics,900.0,14.0,500.0,Paid,2024-03-15
+16,16,19,2024-03-16,Pending,Sneha Paul,35,Female,Kolkata,Dr. Reena Pillai,ENT,700.0,15.0,800.0,Pending,2024-03-16
+17,17,11,2024-03-17,Cancelled,Harsh Vora,39,Male,Surat,Dr. Sneha Shah,Psychiatry,950.0,16.0,1000.0,Unpaid,2024-03-17
+18,18,22,2024-03-18,Completed,Pooja Sharma,28,Female,Jaipur,Dr. Divya Rani,Gynecology,950.0,17.0,1200.0,Paid,2024-03-18
+19,19,24,2024-03-19,Pending,Nitin Goyal,50,Male,Chandigarh,Dr. Aarti Menon,General Medicine,500.0,18.0,600.0,Pending,2024-03-19
+20,20,25,2024-03-20,Completed,Kavita Menon,43,Female,Trivandrum,Dr. Kiran Rao,Pediatrics,850.0,19.0,700.0,Paid,2024-03-20
+21,21,26,2024-03-21,Completed,Alok Mishra,37,Male,Bhopal,Dr. Shreya Yadav,Psychiatry,1000.0,20.0,950.0,Paid,2024-03-21
+22,22,28,2024-03-22,Pending,Aarti Kulkarni,30,Female,Nagpur,Dr. Lakshmi Sharma,Endocrinology,950.0,21.0,1100.0,Pending,2024-03-22
+23,23,30,2024-03-23,Cancelled,Suresh Rathi,48,Male,Nashik,Dr. Pooja Iyer,Ophthalmology,700.0,22.0,500.0,Unpaid,2024-03-23
+24,24,9,2024-03-24,Completed,Bhavna Shah,29,Female,Vadodara,Dr. Priya Nair,Gynecology,1000.0,23.0,650.0,Paid,2024-03-24
+25,25,13,2024-03-25,Completed,Tarun Jain,31,Male,Delhi,Dr. Anjali Reddy,Ophthalmology,650.0,24.0,850.0,Paid,2024-03-25
+26,26,27,2024-03-26,Pending,Preeti Sinha,34,Female,Patna,Dr. Suresh Rathi,Cardiology,1300.0,25.0,1050.0,Pending,2024-03-26
+27,27,29,2024-03-27,Completed,Raj Malhotra,41,Male,Kanpur,Dr. Varun Saxena,Dermatology,600.0,26.0,750.0,Paid,2024-03-27
+28,28,31,2024-03-28,Cancelled,Swati Kapoor,33,Female,Noida,Dr. Nikhil Ghosh,Urology,1100.0,27.0,900.0,Unpaid,2024-03-28
+29,29,32,2024-03-29,Completed,Mohit Saxena,36,Male,Gurgaon,Dr. Bhavna Mehta,Orthopedics,850.0,28.0,600.0,Paid,2024-03-29
+30,30,16,2024-03-30,Pending,Anjali Rao,32,Female,Vizag,Dr. Ashok Thakur,Pulmonology,900.0,29.0,700.0,Pending,2024-03-30
+31,31,33,2024-04-01,Completed,Ramesh Bhatt,47,Male,Dehradun,Dr. Deepak Bhatt,ENT,650.0,30.0,1150.0,Paid,2024-04-01
+32,32,34,2024-04-02,Completed,Shruti Deshmukh,27,Female,Nagpur,Dr. Neha Kulkarni,General Medicine,550.0,31.0,800.0,Paid,2024-04-02
+33,33,35,2024-04-03,Cancelled,Deepak Bansal,44,Male,Raipur,Dr. Tarun Joshi,Oncology,1400.0,32.0,1300.0,Unpaid,2024-04-03
+34,34,36,2024-04-04,Pending,Gayatri Reddy,38,Female,Warangal,Dr. Jaya Nambiar,Gynecology,1000.0,33.0,950.0,Pending,2024-04-04
+35,35,37,2024-04-05,Completed,Sanjay Kulkarni,35,Male,Thane,Dr. Yash Tiwari,Neurology,1250.0,34.0,1000.0,Paid,2024-04-05
+36,36,38,2024-04-06,Completed,Vidya Sharma,28,Female,Jodhpur,Dr. Ruchi Agarwal,Pediatrics,900.0,35.0,750.0,Paid,2024-04-06
+37,37,39,2024-04-07,Pending,Ajay Thakur,39,Male,Shimla,Dr. Raj Malhotra,General Surgery,1000.0,36.0,900.0,Pending,2024-04-07
+38,38,40,2024-04-08,Cancelled,Shalini Gupta,31,Female,Amritsar,Dr. Snehal Patil,Dermatology,600.0,37.0,1100.0,Unpaid,2024-04-08
+39,39,41,2024-04-09,Completed,Naveen Chandra,45,Male,Mysore,Dr. Ajay Chopra,Cardiology,1200.0,38.0,850.0,Paid,2024-04-09
+40,40,42,2024-04-10,Pending,Megha Jain,26,Female,Udaipur,Dr. Charu Singh,Psychiatry,950.0,39.0,650.0,Pending,2024-04-10
+41,41,43,2024-04-11,Completed,Rajeev Dixit,52,Male,Gwalior,Dr. Harsha Shetty,Gastroenterology,1050.0,40.0,1200.0,Paid,2024-04-11
+42,42,44,2024-04-12,Completed,Tanya Batra,29,Female,Aligarh,Dr. Kunal Sethi,Nephrology,1150.0,41.0,600.0,Paid,2024-04-12
+43,43,45,2024-04-13,Cancelled,Yogesh Khandelwal,42,Male,Jabalpur,Dr. Radhika Reddy,Endocrinology,950.0,42.0,800.0,Unpaid,2024-04-13
+44,44,46,2024-04-14,Pending,Asmita Roy,34,Female,Siliguri,Dr. Sameer Verma,Pulmonology,850.0,43.0,950.0,Pending,2024-04-14
+45,45,47,2024-04-15,Completed,Devendra Patil,37,Male,Aurangabad,Dr. Manisha Paul,Gynecology,1000.0,44.0,1050.0,Paid,2024-04-15
+46,46,48,2024-04-16,Completed,Nivedita Sen,32,Female,Howrah,Dr. Ravindra Jain,Ophthalmology,650.0,45.0,700.0,Paid,2024-04-16
+47,47,49,2024-04-17,Cancelled,Gaurav Sinha,40,Male,Dhanbad,Dr. Preeti Deshmukh,ENT,700.0,46.0,500.0,Unpaid,2024-04-17
+48,48,50,2024-04-18,Completed,Rekha Pillai,36,Female,Thrissur,Dr. Abhinav Kaul,Orthopedics,800.0,47.0,1150.0,Paid,2024-04-18
+49,49,51,2024-04-19,Pending,Hemant Shetty,43,Male,Mangalore,Dr. Asha Rao,General Medicine,600.0,48.0,1000.0,Pending,2024-04-19
+50,50,52,2024-04-20,Completed,Sandhya Iyer,30,Female,Kozhikode,Dr. Satish Naik,Urology,1100.0,49.0,900.0,Paid,2024-04-20
+51,51,53,2024-04-21,Completed,Prakash Tiwari,49,Male,Jhansi,Dr. Kritika Shah,Psychiatry,900.0,50.0,850.0,Paid,2024-04-21
+52,52,54,2024-04-22,Pending,Ritika Ahuja,28,Female,Panaji,Dr. Dhruv Bansal,Neurology,1250.0,51.0,750.0,Pending,2024-04-22
+53,53,55,2024-04-23,Cancelled,Bharat Kumar,46,Male,Rourkela,Dr. Ishita Nair,Cardiology,1300.0,52.0,600.0,Unpaid,2024-04-23
+54,54,56,2024-04-24,Completed,Charu Chopra,33,Female,Bareilly,Dr. Vinod Khanna,Pediatrics,850.0,53.0,1300.0,Paid,2024-04-24
+55,55,57,2024-04-25,Pending,Shyam Verma,50,Male,Bilaspur,Dr. Iqbal Singh,Oncology,1450.0,54.0,950.0,Pending,2024-04-25
+56,56,58,2024-04-26,Completed,Anuja Mehta,31,Female,Nanded,Dr. Meera Chopra,Dermatology,650.0,55.0,1100.0,Paid,2024-04-26
+57,57,59,2024-04-27,Completed,Om Prakash,38,Male,Agra,Dr. Ramesh Vora,Orthopedics,800.0,56.0,700.0,Paid,2024-04-27
+58,58,60,2024-04-28,Cancelled,Nandini Rao,35,Female,Ghaziabad,Dr. Kanika Desai,Endocrinology,950.0,57.0,1050.0,Unpaid,2024-04-28
+59,59,61,2024-04-29,Pending,Ashok Sharma,41,Male,Faridabad,Dr. Tapan Ghosh,General Surgery,1000.0,58.0,500.0,Pending,2024-04-29
+60,60,62,2024-04-30,Completed,Divya Saxena,27,Female,Moradabad,Dr. Nidhi Rao,Gynecology,950.0,59.0,900.0,Paid,2024-04-30
+61,61,63,2024-05-01,Completed,Dilip Reddy,44,Male,Karimnagar,Dr. Arjun Pillai,ENT,750.0,60.0,800.0,Paid,2024-05-01
+62,62,64,2024-05-02,Cancelled,Lata Desai,30,Female,Solapur,Dr. Shraddha Iyer,Pulmonology,900.0,61.0,1150.0,Unpaid,2024-05-02
+63,63,65,2024-05-03,Pending,Ravindra Gupta,36,Male,Ujjain,Dr. Chetan Reddy,Cardiology,1100.0,62.0,650.0,Pending,2024-05-03
+64,64,66,2024-05-04,Completed,Tanvi Joshi,34,Female,Saharanpur,Dr. Tamanna Kapoor,Psychiatry,1000.0,63.0,700.0,Paid,2024-05-04
+65,65,67,2024-05-05,Completed,Narendra Yadav,39,Male,Vellore,Dr. Dinesh Dubey,Urology,1150.0,64.0,1000.0,Paid,2024-05-05
+66,66,68,2024-05-06,Pending,Arpita Banerjee,29,Female,Asansol,Dr. Shalini Goyal,Ophthalmology,650.0,65.0,850.0,Pending,2024-05-06
+67,67,69,2024-05-07,Cancelled,Mahesh Naik,45,Male,Hubli,Dr. Keshav Menon,General Medicine,550.0,66.0,600.0,Unpaid,2024-05-07
+68,68,70,2024-05-08,Completed,Kiran Bala,32,Female,Cuttack,Dr. Bindu Sharma,Pediatrics,900.0,67.0,1200.0,Paid,2024-05-08
+69,69,71,2024-05-09,Completed,Satish Pal,43,Male,Guntur,Dr. Yogesh Malviya,Neurology,1200.0,68.0,750.0,Paid,2024-05-09
+70,70,72,2024-05-10,Pending,Deepali Mishra,31,Female,Ajmer,Dr. Anuja Jain,Endocrinology,950.0,69.0,1100.0,Pending,2024-05-10
+71,71,73,2024-05-11,Cancelled,Ajit Pawar,47,Male,Kolhapur,Dr. Aditya Singh,Orthopedics,850.0,70.0,950.0,Unpaid,2024-05-11
+72,72,74,2024-05-12,Completed,Nikita Verma,26,Female,Nellore,Dr. Farah Khan,Dermatology,600.0,71.0,800.0,Paid,2024-05-12
+73,73,75,2024-05-13,Pending,Brijesh Shukla,40,Male,Kakinada,Dr. Gopal Patil,Gastroenterology,1100.0,72.0,1050.0,Pending,2024-05-13
+74,74,76,2024-05-14,Completed,Jaya Menon,36,Female,Tirupati,Dr. Urmila Das,Gynecology,1000.0,73.0,900.0,Paid,2024-05-14
+75,75,77,2024-05-15,Completed,Rajkumar Sethi,42,Male,Jalandhar,Dr. Mohan Shekhar,ENT,700.0,74.0,650.0,Paid,2024-05-15
+76,76,78,2024-05-16,Cancelled,Payal Shah,30,Female,Nizamabad,Dr. Simran Kaur,Psychiatry,950.0,75.0,850.0,Unpaid,2024-05-16
+77,77,79,2024-05-17,Pending,Suraj Bhatia,39,Male,Bhavnagar,Dr. Devendra Tripathi,Cardiology,1200.0,76.0,1300.0,Pending,2024-05-17
+78,78,80,2024-05-18,Completed,Kritika Agarwal,28,Female,Kollam,Dr. Shruti Lala,Pediatrics,850.0,77.0,600.0,Paid,2024-05-18
+79,79,81,2024-05-19,Completed,Vivek Jha,46,Male,Gaya,Dr. Tanmay Roy,Oncology,1400.0,78.0,1150.0,Paid,2024-05-19
+80,80,82,2024-05-20,Cancelled,Rashmi Desai,33,Female,Durgapur,Dr. Avantika Joshi,Ophthalmology,700.0,79.0,500.0,Unpaid,2024-05-20
+81,81,83,2024-05-21,Pending,Sameer Rao,35,Male,Rewa,Dr. Nitin Rawat,Pulmonology,950.0,80.0,1000.0,Pending,2024-05-21
+82,82,84,2024-05-22,Completed,Nidhi Sood,29,Female,Sangli,Dr. Indira Balan,General Medicine,500.0,81.0,900.0,Paid,2024-05-22
+83,83,85,2024-05-23,Completed,Arvind Dubey,48,Male,Bokaro,Dr. Arpit Mehta,Urology,1150.0,82.0,700.0,Paid,2024-05-23
+84,84,86,2024-05-24,Cancelled,Snehal Thakur,34,Female,Tinsukia,Dr. Ritu Bhardwaj,Psychiatry,900.0,83.0,800.0,Unpaid,2024-05-24
+85,85,87,2024-05-25,Pending,Ashwin Iyer,37,Male,Itanagar,Dr. Mahesh Rana,Neurology,1250.0,84.0,950.0,Pending,2024-05-25
+86,86,88,2024-05-26,Completed,Bhavya Kapoor,26,Female,Imphal,Dr. Veena Desai,Dermatology,600.0,85.0,1200.0,Paid,2024-05-26
+87,87,89,2024-05-27,Completed,Ravi Teja,41,Male,Aizawl,Dr. Shantanu Rao,Cardiology,1300.0,86.0,650.0,Paid,2024-05-27
+88,88,90,2024-05-28,Pending,Mona Bhatt,30,Female,Shillong,Dr. Alka Mishra,Pediatrics,850.0,87.0,1050.0,Unpaid,2024-05-28
+89,89,91,2024-05-29,Cancelled,Kapil Mehta,45,Male,Agartala,Dr. Siddharth Raina,Endocrinology,1000.0,88.0,500.0,Pending,2024-05-29
+90,90,92,2024-05-30,Completed,Rani Kaur,28,Female,Port Blair,Dr. Sanya Shetty,Gynecology,950.0,89.0,700.0,Paid,2024-05-30
+91,91,93,2024-05-31,Completed,Harish Pandey,39,Male,Silchar,Dr. Manoj Puri,General Surgery,1050.0,90.0,1100.0,Paid,2024-05-31
+92,92,94,2024-06-01,Pending,Smita Narayan,33,Female,Dharwad,Dr. Rachna Nair,Ophthalmology,700.0,91.0,600.0,Unpaid,2024-06-01
+93,93,95,2024-06-02,Cancelled,Jitendra Yadav,44,Male,Satna,Dr. Amit Tiwari,Gastroenterology,1100.0,92.0,800.0,Pending,2024-06-02
+94,94,96,2024-06-03,Completed,Pallavi Sharma,35,Female,Bhagalpur,Dr. Parul Arora,Psychiatry,1000.0,93.0,900.0,Paid,2024-06-03
+95,95,97,2024-06-04,Pending,Girish Reddy,42,Male,Chandrapur,Dr. Kabir Lamba,Orthopedics,850.0,94.0,750.0,Paid,2024-06-04
+96,96,98,2024-06-05,Completed,Reena Joshi,31,Female,Darbhanga,Dr. Madhuri Kiran,Pulmonology,900.0,95.0,950.0,Pending,2024-06-05
+97,97,99,2024-06-06,Completed,Yash Pal,38,Male,Jamnagar,Dr. Aruna Bansal,Dermatology,650.0,96.0,1150.0,Unpaid,2024-06-06
+98,98,100,2024-06-07,Cancelled,Madhavi Das,27,Female,Malegaon,Dr. Krishna Yadav,Neurology,1250.0,97.0,850.0,Paid,2024-06-07
+99,99,2,2024-06-08,Pending,Nikhil Jain,36,Male,Firozabad,Dr. Arvind Rao,Orthopedics,800.0,98.0,1300.0,Pending,2024-06-08
+100,100,3,2024-06-09,Completed,Anushka Reddy,29,Female,Raichur,Dr. Kavita Sinha,Dermatology,600.0,99.0,1000.0,Paid,2024-06-09
